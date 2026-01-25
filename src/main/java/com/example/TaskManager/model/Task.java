@@ -5,7 +5,6 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
-import org.jspecify.annotations.NonNull;
 
 @Entity
 public class Task {
@@ -49,12 +48,5 @@ public class Task {
 
     public void setCompleted(boolean completed) {
         this.completed = completed;
-    }
-
-    @Override
-    public String toString (){
-        StringBuilder sb = new StringBuilder();
-        sb.append(name).append(", ").append(description).append(", ").append(completed);
-        return sb.toString();
     }
 }
