@@ -127,6 +127,17 @@ Este proyecto está pensado para ejecutarse en un entorno de desarrollo (IDE).
 
 ---
 
+## Conceptos aprendidos
+
+- Qué es una API
+- Qué es REST
+- Qué es un Endpoint
+- Qué es Postman
+- Qué es Spring Boot
+- Qué es una base de datos relacional
+
+---
+
 ## Estado del proyecto
 
 * Funcional
@@ -143,17 +154,6 @@ Este proyecto está pensado para ejecutarse en un entorno de desarrollo (IDE).
 - Lógica de negocio
 - Refactorización incremental
 - Aprendizaje prueba y error
-
----
-
-## Conceptos aprendidos
-
-- Qué es una API
-- Qué es REST
-- Qué es un Endpoint
-- Qué es Postman
-- Qué es Spring Boot
-- Qué es una base de datos relacional
 
 ---
 
