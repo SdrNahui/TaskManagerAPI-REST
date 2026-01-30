@@ -127,6 +127,16 @@ Este proyecto está pensado para ejecutarse en un entorno de desarrollo (IDE).
 
 ---
 
+## Conceptos aplicados
+
+- Arquitectura MVC
+- Programación Orientada a Objetos
+- Lógica de negocio
+- Refactorización incremental
+- Aprendizaje prueba y error
+
+---
+
 ## Conceptos aprendidos
 
 - Qué es una API
@@ -144,16 +154,6 @@ Este proyecto está pensado para ejecutarse en un entorno de desarrollo (IDE).
 * Persistente
 * Probado con Postman
 * Versión: **v1.0**
-
----
-
-## Conceptos aplicados
-
-- Arquitectura MVC
-- Programación Orientada a Objetos
-- Lógica de negocio
-- Refactorización incremental
-- Aprendizaje prueba y error
 
 ---
 
