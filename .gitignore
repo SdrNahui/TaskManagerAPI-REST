@@ -33,6 +33,5 @@ build/
 .vscode/
 # Spring Boot config (credentials)
 application.properties
-application-railway.properties
 application-local.properties
 application-prod.properties
