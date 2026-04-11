@@ -34,4 +34,5 @@ build/
 # Spring Boot config (credentials)
 application.properties
 application-local.properties
+application-railway.properties
 application-prod.properties
